@@ -1,0 +1,41 @@
+_repo: Pieces-of-Hate--And-Other-Enthusiasms_35679
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35679-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+description: ''
+gutenberg_issued: '2011-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: The not impossible sheik -- John Roach Straton -- Private ownership
+  of offspring -- G. K. C. [Gilbert K. Chesterton] -- On being a god -- Chivalry is
+  born -- Ruth vs. Roth -- The bigger the year -- For old Nassau -- Mr. Dempsey's
+  five-foot shelf -- Sport for art's sake -- Jack the giant killer -- Judge Krink
+  -- Frankincense and myrrh -- The excelsior movement -- The dog star -- Altruistic
+  poker -- The well made revue -- An adjective a day -- The unknown soldier -- A tortoise
+  shell home -- I'd die for dear old Rutgers -- Are editors people? -- We have with
+  us this evening— -- The young pessimists -- Glass slippers by the gross -- A modern
+  beanstalk -- Volstead and conversation -- Life, the copy cat -- The orthodox champion
+  -- With a stein on the table -- Art for argument's sake -- No rahs for Ray -- "Ataboy!"
+  -- How to win money at the races -- One touch of slapstick -- Danger signals for
+  readers -- Adventure made painless -- The tall villa -- Professor George Pierce
+  Baker -- What Shakespeare missed -- Censoring the censor.
+title: Pieces of Hate; And Other Enthusiasms
+url: http://www.gutenberg.org/ebooks/35679
